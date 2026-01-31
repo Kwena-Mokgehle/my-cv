@@ -60,7 +60,6 @@ with st.expander("Volunteer University Application Assistant"):
     st.write("- Guided 50+ high school students to apply for university and funding, overcoming resource gaps by developing mobile smartphone strategy at under equuipped schools.")
     st.write("- Built Excel tracking system capturing student details, enabling 100% follow-up completion rates for funding.")
     st.write("- Supported multilingual learners across stations, boosting communication and teamwork in diverse settings.")
-    st.write("✌️ we are having fun this side!!")
 
 # --- Projects ---
 st.subheader("📽️ Research Projects")
